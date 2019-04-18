@@ -1,3 +1,21 @@
 {
-  
+  "title": "Introduction",
+  "tableOfContents": [
+    {
+      "title": "Trailer",
+      "children": [
+        {
+          "id": 1,
+          "title": "Coming Soon",
+          "children": [
+            {
+              "title": "서비스 소개",
+              "shortTitle": "",
+              "url": "/coming-soon"
+            }
+          ]
+        }
+      ]
+    }
+  ]
 }
