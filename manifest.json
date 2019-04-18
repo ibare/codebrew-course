@@ -1,0 +1,9 @@
+{
+  "courseList": [
+    {
+      "course": "intro",
+      "sequence": "000",
+      "description": "서비스 소개"
+    }
+  ]
+}
