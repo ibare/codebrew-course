@@ -4,6 +4,11 @@
       "course": "intro",
       "sequence": "000",
       "description": "서비스 소개"
+    },
+    {
+      "course": "react-with-ts-101",
+      "sequence": "101",
+      "description": "react & typescript 101"
     }
   ]
 }
