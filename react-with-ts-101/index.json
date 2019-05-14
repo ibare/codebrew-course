@@ -1,0 +1,21 @@
+{
+  "title": "React& TypeScript 101",
+  "tableOfContents": [
+    {
+      "title": "Appetizer",
+      "children": [
+        {
+          "id": 1,
+          "title": "숨고르기",
+          "children": [
+            {
+              "title": "보일러플레이트",
+              "shortTitle": "",
+              "url": "/boilerplate"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
